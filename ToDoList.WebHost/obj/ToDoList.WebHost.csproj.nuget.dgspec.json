@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\ToDoList.WebHost.csproj": {}
+    "D:\\ToDoAPI\\ToDoList.WebHost\\ToDoList.WebHost.csproj": {}
   },
   "projects": {
-    "D:\\ToDo\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj": {
+    "D:\\ToDoAPI\\ToDoList.Application\\ToDoList.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj",
+        "projectUniqueName": "D:\\ToDoAPI\\ToDoList.Application\\ToDoList.Application.csproj",
         "projectName": "ToDoList.Application",
-        "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj",
+        "projectPath": "D:\\ToDoAPI\\ToDoList.Application\\ToDoList.Application.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\obj\\",
+        "outputPath": "D:\\ToDoAPI\\ToDoList.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj": {
-                "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj"
+              "D:\\ToDoAPI\\ToDoList.Core\\ToDoList.Core.csproj": {
+                "projectPath": "D:\\ToDoAPI\\ToDoList.Core\\ToDoList.Core.csproj"
               },
-              "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
-                "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj"
+              "D:\\ToDoAPI\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
+                "projectPath": "D:\\ToDoAPI\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj": {
+    "D:\\ToDoAPI\\ToDoList.Core\\ToDoList.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj",
+        "projectUniqueName": "D:\\ToDoAPI\\ToDoList.Core\\ToDoList.Core.csproj",
         "projectName": "ToDoList.Core",
-        "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj",
+        "projectPath": "D:\\ToDoAPI\\ToDoList.Core\\ToDoList.Core.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\obj\\",
+        "outputPath": "D:\\ToDoAPI\\ToDoList.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -177,14 +177,14 @@
         }
       }
     },
-    "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
+    "D:\\ToDoAPI\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
+        "projectUniqueName": "D:\\ToDoAPI\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
         "projectName": "ToDoList.Infrastructure",
-        "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
+        "projectPath": "D:\\ToDoAPI\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\obj\\",
+        "outputPath": "D:\\ToDoAPI\\ToDoList.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -205,8 +205,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj": {
-                "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj"
+              "D:\\ToDoAPI\\ToDoList.Core\\ToDoList.Core.csproj": {
+                "projectPath": "D:\\ToDoAPI\\ToDoList.Core\\ToDoList.Core.csproj"
               }
             }
           }
@@ -264,14 +264,14 @@
         }
       }
     },
-    "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\ToDoList.WebHost.csproj": {
+    "D:\\ToDoAPI\\ToDoList.WebHost\\ToDoList.WebHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\ToDoList.WebHost.csproj",
+        "projectUniqueName": "D:\\ToDoAPI\\ToDoList.WebHost\\ToDoList.WebHost.csproj",
         "projectName": "ToDoList.WebHost",
-        "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\ToDoList.WebHost.csproj",
+        "projectPath": "D:\\ToDoAPI\\ToDoList.WebHost\\ToDoList.WebHost.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\obj\\",
+        "outputPath": "D:\\ToDoAPI\\ToDoList.WebHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -292,11 +292,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ToDo\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj": {
-                "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj"
+              "D:\\ToDoAPI\\ToDoList.Application\\ToDoList.Application.csproj": {
+                "projectPath": "D:\\ToDoAPI\\ToDoList.Application\\ToDoList.Application.csproj"
               },
-              "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
-                "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj"
+              "D:\\ToDoAPI\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
+                "projectPath": "D:\\ToDoAPI\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj"
               }
             }
           }
