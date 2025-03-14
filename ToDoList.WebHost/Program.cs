@@ -9,7 +9,7 @@ using Abp.Domain.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("DbConnection");
+var connectionString = Environment.GetEnvironmentVariable("DbConnection");
 var mongoClient = new MongoClient(connectionString);
 var dataBaseName = "ToDo";
 var dataBase = mongoClient.GetDatabase(dataBaseName);
