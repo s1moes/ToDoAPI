@@ -1,0 +1,13 @@
+D:\ToDoAPI\out\API_ToDo.exe
+D:\ToDoAPI\out\appsettings.Development.json
+D:\ToDoAPI\out\appsettings.json
+D:\ToDoAPI\out\API_ToDo.dll
+D:\ToDoAPI\out\API_ToDo.deps.json
+D:\ToDoAPI\out\API_ToDo.runtimeconfig.json
+D:\ToDoAPI\out\API_ToDo.pdb
+D:\ToDoAPI\out\DnsClient.dll
+D:\ToDoAPI\out\MongoDB.Bson.dll
+D:\ToDoAPI\out\MongoDB.Driver.dll
+D:\ToDoAPI\out\SharpCompress.dll
+D:\ToDoAPI\out\Snappier.dll
+D:\ToDoAPI\out\ZstdSharp.dll
