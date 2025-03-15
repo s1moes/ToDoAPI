@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API_ToDo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB853B1F-6BB9-40B5-9C46-3056C2A378A1}|API_ToDo.csproj|d:\\api_todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB853B1F-6BB9-40B5-9C46-3056C2A378A1}|API_ToDo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB853B1F-6BB9-40B5-9C46-3056C2A378A1}|API_ToDo.csproj|d:\\api_todo\\services\\compras\\compraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB853B1F-6BB9-40B5-9C46-3056C2A378A1}|API_ToDo.csproj|solutionrelative:services\\compras\\compraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB853B1F-6BB9-40B5-9C46-3056C2A378A1}|API_ToDo.csproj|d:\\api_todo\\services\\compras\\icompraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB853B1F-6BB9-40B5-9C46-3056C2A378A1}|API_ToDo.csproj|solutionrelative:services\\compras\\icompraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB853B1F-6BB9-40B5-9C46-3056C2A378A1}|API_ToDo.csproj|d:\\api_todo\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB853B1F-6BB9-40B5-9C46-3056C2A378A1}|API_ToDo.csproj|solutionrelative:controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API_ToDo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\API_ToDo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:07:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "D:\\API_ToDo\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompraController.cs",
+              "ToolTip": "D:\\API_ToDo\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "Controllers\\CompraController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:06:31.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICompraAppService.cs",
+              "DocumentMoniker": "D:\\API_ToDo\\Services\\Compras\\ICompraAppService.cs",
+              "RelativeDocumentMoniker": "Services\\Compras\\ICompraAppService.cs",
+              "ToolTip": "D:\\API_ToDo\\Services\\Compras\\ICompraAppService.cs",
+              "RelativeToolTip": "Services\\Compras\\ICompraAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:05:09.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompraAppService.cs",
+              "DocumentMoniker": "D:\\API_ToDo\\Services\\Compras\\CompraAppService.cs",
+              "RelativeDocumentMoniker": "Services\\Compras\\CompraAppService.cs",
+              "ToolTip": "D:\\API_ToDo\\Services\\Compras\\CompraAppService.cs",
+              "RelativeToolTip": "Services\\Compras\\CompraAppService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA9wBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:05:08.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
