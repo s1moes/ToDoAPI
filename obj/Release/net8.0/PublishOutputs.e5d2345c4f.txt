@@ -1,0 +1,13 @@
+D:\ToDoAPI\bin\Release\net8.0\publish\API_ToDo.exe
+D:\ToDoAPI\bin\Release\net8.0\publish\appsettings.Development.json
+D:\ToDoAPI\bin\Release\net8.0\publish\appsettings.json
+D:\ToDoAPI\bin\Release\net8.0\publish\API_ToDo.dll
+D:\ToDoAPI\bin\Release\net8.0\publish\API_ToDo.deps.json
+D:\ToDoAPI\bin\Release\net8.0\publish\API_ToDo.runtimeconfig.json
+D:\ToDoAPI\bin\Release\net8.0\publish\API_ToDo.pdb
+D:\ToDoAPI\bin\Release\net8.0\publish\DnsClient.dll
+D:\ToDoAPI\bin\Release\net8.0\publish\MongoDB.Bson.dll
+D:\ToDoAPI\bin\Release\net8.0\publish\MongoDB.Driver.dll
+D:\ToDoAPI\bin\Release\net8.0\publish\SharpCompress.dll
+D:\ToDoAPI\bin\Release\net8.0\publish\Snappier.dll
+D:\ToDoAPI\bin\Release\net8.0\publish\ZstdSharp.dll
